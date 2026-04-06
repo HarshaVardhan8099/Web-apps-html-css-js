@@ -7,3 +7,9 @@ I developed a modern and responsive Login & Registration user interface using HT
 
 <img width="1919" height="950" alt="Screenshot 2026-04-05 191121" src="https://github.com/user-attachments/assets/df6b3c8d-353e-49cf-8c37-c1e7cb705cee" />
 <img width="1919" height="950" alt="Screenshot 2026-04-05 202744" src="https://github.com/user-attachments/assets/fd20d0f9-6720-4af0-a826-14380a964032" />
+
+#Time
+
+I developed a simple timer using JS.
+
+<img width="1902" height="934" alt="image" src="https://github.com/user-attachments/assets/e8c06587-9c06-4be0-a862-83201fffc8a5" />

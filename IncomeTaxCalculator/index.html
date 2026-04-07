@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Income Tax Calculator</title>
+    <style>
+        body{
+            background-color: beige;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        #main{
+            height: 98vh;
+            width: 98vw;
+
+            font-weight: 500;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: start;
+            padding-left: 500px;
+        }
+        form{
+            display: flex;
+            font-size: 20px;
+            flex-direction: column;
+            align-items: start;
+            gap: 10px;
+        }
+        input{
+            background-color: black;
+            height: 40px;
+            width: 300px;
+        }
+        button{
+            background-color: rgb(86, 86, 86);
+            padding: 10px;
+            color: black;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="main">
+        <h1>Income Tax Calculator</h1>
+        <form>
+            <label for="number">Salary</label>
+            <input type="number" name="number" id="number">
+            <br><br>
+            <button type="submit" >Calculate Income</button>
+        </form>
+
+        <h2>Total Income: 
+        </h2>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
